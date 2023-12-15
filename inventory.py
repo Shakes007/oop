@@ -1,6 +1,6 @@
 # This program is designed to perform stock taking.
 # It must read in data from a text file, be able to calculate the value,
-# uodate the text file with new information and find information from
+# update the text file with new information and find information from
 # the text file.
 
 
