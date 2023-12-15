@@ -3,7 +3,7 @@
 It must read in data from a text file, be able to calculate the value,
 update the text file with new information and find information from  the text file.
 
-**This includes classes and class inoheritance**
+**This includes classes and class inheritance**
 
 ## Further, it involves a text file which contains data about the:
 * Country
