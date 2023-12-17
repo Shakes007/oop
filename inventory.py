@@ -117,7 +117,7 @@ def re_stock():
             lowest_quantity = shoe.get_quantity()
             shoe_to_restock = shoe
     
-    #
+    
     if shoe_to_restock:
         print(f'The shoe with the lowest quantity is: {shoe_to_restock}')
         restock_qty = int(input('Enter the quantity to restock: '))
